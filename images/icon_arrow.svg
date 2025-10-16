@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="12"
+   height="12"
+   viewBox="0 0 12 12"
+   sodipodi:docname="icon_arrow.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title2">Blogger Icon Arrow</title>
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="32"
+     inkscape:cx="5.46875"
+     inkscape:cy="5.109375"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="12"
+       height="12"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABHNCSVQICAgIfAhkiAAAAG1JREFU&#10;KJFjZGBgYEjrSPvPQASYVTGLkZFYxTDAgi7ga+PL4GPtw8DAwMCQ3pmOoYEJXWDzkc0MW45uYWBg&#10;YGCYWT6TsAZCmuB+wGYaMoA5D6sN+ADOUMLleaw24AspDA2EgpXkiGNkYCAtaQAAz7wsYeGFyc0A&#10;AAAASUVORK5CYII=&#10;"
+       id="image1"
+       inkscape:label="Reference"
+       style="display:none;image-rendering:pixelated" />
+    <g
+       id="g2"
+       inkscape:label="Arrow Button"
+       style="display:inline">
+      <path
+         style="display:inline;fill:#668866;fill-opacity:1"
+         d="M 0,1 H 1 V 0 h 10 v 1 h 1 v 10 h -1 v 1 H 1 V 11 H 0 Z"
+         id="path1"
+         inkscape:label="Button" />
+      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1"
+         d="M 2,5 H 7 L 5,3 V 2 h 2 l 3,3 V 7 L 7,10 H 5 V 9 L 7,7 H 2 Z"
+         id="path2"
+         inkscape:label="Arrow"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </g>
+  </g>
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Blogger Icon Arrow</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
