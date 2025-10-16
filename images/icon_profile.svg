@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="9"
+   height="11"
+   viewBox="0 0 9 11"
+   sodipodi:docname="icon_profile.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="45.254834"
+     inkscape:cx="1.6351844"
+     inkscape:cy="5.6679028"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="9"
+       height="11"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAALCAYAAACtWacbAAAABHNCSVQICAgIfAhkiAAAAJVJREFU&#10;GJWVkLEOwyAMRB/QJUwMjPmH/kI+O2PWjv0HNiBiiTeULoUmahWpt9gnn+w7K95YnsueUqKUgnMO&#10;7z3TfVIAtyZKKZFzBui1QbemlHIaHHkXOedOoiPv57z3fUPz9BdUS7auK9u2ISJYaxmGoSdU82Pe&#10;QwjUWr82GGMYxxEdY/wpAKi1EmNEi8ilHxH5vOAKL7EvQ0y5Iwu/AAAAAElFTkSuQmCC&#10;"
+       id="image1"
+       style="display:none;image-rendering:pixelated"
+       inkscape:label="Reference" />
+    <circle
+       style="display:inline;fill:#99aa99;fill-opacity:1"
+       id="path1"
+       cx="4.5"
+       cy="2.5"
+       r="2.5"
+       inkscape:label="Head" />
+    <path
+       style="fill:#99aa99;fill-opacity:1"
+       d="M 0,7 C 0,7 0,6.4979935 1,6 2,5.5020065 7,5.4971845 8,6 9,6.5028155 9,7 9,7 v 4 H 0 Z"
+       id="path2"
+       sodipodi:nodetypes="czzcccc"
+       inkscape:label="Body" />
+  </g>
+</svg>
